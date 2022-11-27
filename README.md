@@ -2,7 +2,11 @@
 My work during 42 Porto Piscine, October 2022! <br />
 Feel free to have a look at the codes and if you have any question you can always DM me.
 
-# What is the "Piscine"?
+# Skills learned 
+ - C
+ - Shell
+
+# What is the "Piscine" At 42?
 ![Piscine](https://user-images.githubusercontent.com/117604174/204117454-aa9e45da-0aa6-47de-979b-340ed7d813d8.PNG)
 
 # C Piscine SHELL 00
